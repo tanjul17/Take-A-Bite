@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Take-A-Bite/static/css/main.e7f70e02.css",
+    "main.js": "/Take-A-Bite/static/js/main.12e153fb.js",
+    "index.html": "/Take-A-Bite/index.html",
+    "main.e7f70e02.css.map": "/Take-A-Bite/static/css/main.e7f70e02.css.map",
+    "main.12e153fb.js.map": "/Take-A-Bite/static/js/main.12e153fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7f70e02.css",
+    "static/js/main.12e153fb.js"
+  ]
+}
