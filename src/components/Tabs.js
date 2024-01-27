@@ -4,7 +4,7 @@ import {GiFruitBowl , GiNoodles,GiCheckMark} from 'react-icons/gi'
 import {MdOutlineIcecream} from 'react-icons/md'
 import{fetchTabData} from '../service'
 function Tabs(props) {
-    const[active,setActive]=useState('Pizza')
+    const[active,setActive]=useState('Noodles')
     const[tabData,setTabData]=useState('')
     const[tabLabel,setTabLabel]=useState([
         {

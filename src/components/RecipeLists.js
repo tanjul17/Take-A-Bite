@@ -4,7 +4,7 @@ import { fetchData } from "../service";
 
 function RecipeLists(props) {
   const [searchTerm, setSearchTerm] = useState("");
-  const [query, setQuery] = useState("pizza");
+  const [query, setQuery] = useState("Noodles");
   const [data, setData] = useState("");
 
   const searchrecipe = (searchQuery) => {
